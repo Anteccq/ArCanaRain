@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArCanaRain.Difficulty", "ArCanaRain.Difficulty\ArCanaRain.Difficulty.csproj", "{78463A15-19B6-4F58-B755-688E4795990C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78463A15-19B6-4F58-B755-688E4795990C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78463A15-19B6-4F58-B755-688E4795990C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78463A15-19B6-4F58-B755-688E4795990C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78463A15-19B6-4F58-B755-688E4795990C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3647C79-516E-49E2-A2B3-3991A150508E}
+	EndGlobalSection
+EndGlobal
